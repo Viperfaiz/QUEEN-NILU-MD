@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = '' /QueenNilu;;;IvwC1JrL#g6k6TWcQggN4m4myGxDxHfd7hkQgAmT8j_mwYZuqwZ8/ PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://vilser_user:8AqDUeFVyKoCNg7394hvyGxJ9i2aiRW8@dpg-ck2sk0fqj8ts738amvs0-a.frankfurt-postgres.render.com/vilser'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '8848508382'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'vil_ser'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -45,15 +45,15 @@ global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@vil_ser🤹‍♂️' //sticker
 
-global.FOOTER = 'Queen Nilu 2023 '
+global.FOOTER = 'viper 2023 '
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = 'viper  © 2023' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
@@ -67,7 +67,7 @@ global.ANTI_BAD_ACTION = false
 
 global.ANTI_LINK = 'false' //Anti Link (on = True , Off = False )
 
-global.ANTI_BOTS = true
+global.ANTI_BOTS = false
 
 global.ONLY_GROUP = 'false' // Only group mode
 
@@ -89,7 +89,7 @@ global.VOICE_REPLY = true
 
 /* V card */
 
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
+global.ytname = "YT: 🤣🤣" //ur yt chanel name
 global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
 global.location = "Srilanka, colombo" //ur location
 
